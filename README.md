@@ -1,4 +1,4 @@
-# Paddle 2.0.0 for the Raspberry Pi 64-bit OS
+# Paddle 2.0.0 for the Raspberry Pi 4 64-bit OS
 Please find your **linux-aarch64** installation wheel here. The **cpXX** number refers to your Python3 version.<br/>
 ## 64-bit OS (Python 3.7)
 Paddle installation files for the Raspberry Pi 4 with 64-bit operating system
