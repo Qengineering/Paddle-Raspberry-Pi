@@ -1,6 +1,15 @@
-# Paddle 2.0.0 for the Raspberry Pi 4 64-bit OS
+# Paddle 2.3.1 for the Raspberry Pi 4 Bullseye 64-bit OS
 Paddle installation files for the Raspberry Pi 4 with 64-bit operating system
 For the installation guide see [Install Paddle 2.0.0](https://qengineering.eu/install-paddlepaddle-on-raspberry-pi-4.html) <br/>
+
+--------
+
+# Paddle 2.0.0 for the Raspberry Pi 4 Buster 64-bit OS
+Paddle installation files for the Raspberry Pi 4 with 64-bit operating system
+For the installation guide see [Install Paddle 2.0.0](https://qengineering.eu/install-paddlepaddle-on-raspberry-pi-4.html) <br/>
+
+--------
+
 ## Dependency
 ```
 # install dependencies
