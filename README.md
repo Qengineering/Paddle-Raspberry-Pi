@@ -1,16 +1,22 @@
-# Paddle 2.3.1 for the Raspberry Pi 4 Bullseye 64-bit OS
+# Paddle 2.4.2 for the Raspberry Pi 4 Bullseye 64-bit OS
 Paddle installation files for the Raspberry Pi 4 with 64-bit operating system
 For the installation guide see [Install Paddle 2.0.0](https://qengineering.eu/install-paddlepaddle-on-raspberry-pi-4.html) <br/>
 
 --------
 
-# Paddle 2.0.0 for the Raspberry Pi 4 Buster 64-bit OS
+#### Paddle 2.3.1 for the Raspberry Pi 4 Bullseye 64-bit OS (deprecated)
 Paddle installation files for the Raspberry Pi 4 with 64-bit operating system
 For the installation guide see [Install Paddle 2.0.0](https://qengineering.eu/install-paddlepaddle-on-raspberry-pi-4.html) <br/>
 
 --------
 
-## Dependency
+#### Paddle 2.0.0 for the Raspberry Pi 4 Buster 64-bit OS (deprecated)
+Paddle installation files for the Raspberry Pi 4 with 64-bit operating system
+For the installation guide see [Install Paddle 2.0.0](https://qengineering.eu/install-paddlepaddle-on-raspberry-pi-4.html) <br/>
+
+--------
+
+#### Dependency
 ```
 # install dependencies
 $ sudo apt-get install cmake wget
@@ -28,7 +34,7 @@ $ sudo -H pip3 install paddlepaddle-2.0.0-cp37-cp37m-linux_aarch64.whl
 # clean up
 $ rm paddlepaddle-2.0.0-cp37-cp37m-linux_aarch64.whl
 ```
-## Wheels
+### Wheels
 Please find your **linux-aarch64** installation wheel here. The **cpXX** number refers to your Python3 version.<br/>
 Ubuntu 20.04 (Python 3.8) -> Put a request!<br/>
 Ubuntu 18.04 (Python 3.6) -> Put a request!<br/>
